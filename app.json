@@ -1,0 +1,33 @@
+{
+  "id": "eb626ff2-6659-4d4d-b446-da4e4d99dfd1",
+  "name": "Academy Development",
+  "publisher": "Default ALEN",
+  "version": "21.0.0.0",
+  "brief": "Academy Development Week DEC 5-9",
+  "description": "stuff",
+  "privacyStatement": "",
+  "EULA": "https://ba-consult.dk/downloads/Warranty.txt",
+  "help": "",
+  "url": "",
+  "logo": "./images/logo.jpeg",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}
