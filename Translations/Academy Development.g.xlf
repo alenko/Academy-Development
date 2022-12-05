@@ -28,6 +28,31 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report CSD Customer List - ReportLabel TotalCap</note>
         </trans-unit>
+        <trans-unit id="Report 2232509687 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CSD Customer Statement</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CSD Customer Statement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2232509687 - ReportLabel 1291914149" size-unit="char" translate="yes" xml:space="preserve">
+          <source>of</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CSD Customer Statement - ReportLabel OfCap</note>
+        </trans-unit>
+        <trans-unit id="Report 2232509687 - ReportLabel 1240791067" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CSD Customer Statement - ReportLabel PageCap</note>
+        </trans-unit>
+        <trans-unit id="Report 2232509687 - ReportLabel 1476249320" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CSD Customer Statement - ReportLabel ReportCap</note>
+        </trans-unit>
+        <trans-unit id="Report 2232509687 - ReportLabel 1313446380" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CSD Customer Statement - ReportLabel TotalCap</note>
+        </trans-unit>
       </group>
     </body>
   </file>

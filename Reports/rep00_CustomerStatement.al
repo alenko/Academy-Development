@@ -87,7 +87,7 @@ report 50101 "CSD Customer Statement"
         layout(Simple)
         {
             Type = RDLC;
-            LayoutFile = './Layouts/CustomerList.rdl';
+            LayoutFile = './Layouts/CustomerStatement.rdl';
         }
     }
 
