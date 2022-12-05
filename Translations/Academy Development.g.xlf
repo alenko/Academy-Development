@@ -2,7 +2,33 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" source-language="en-US" target-language="en-US" original="Academy Development">
     <body>
-      <group id="body" /> 
+      <group id="body">
+        <trans-unit id="Report 1243147406 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CSD Customer List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CSD Customer List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1243147406 - ReportLabel 3014879639" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CSD Customer List - ReportLabel NameCap</note>
+        </trans-unit>
+        <trans-unit id="Report 1243147406 - ReportLabel 1240791067" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CSD Customer List - ReportLabel PageCap</note>
+        </trans-unit>
+        <trans-unit id="Report 1243147406 - ReportLabel 1476249320" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CSD Customer List - ReportLabel ReportCap</note>
+        </trans-unit>
+        <trans-unit id="Report 1243147406 - ReportLabel 1313446380" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CSD Customer List - ReportLabel TotalCap</note>
+        </trans-unit>
+      </group>
     </body>
   </file>
 </xliff>
