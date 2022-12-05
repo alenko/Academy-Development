@@ -8,10 +8,10 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report CSD Customer List - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Report 1243147406 - ReportLabel 3014879639" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Name</source>
+        <trans-unit id="Report 1243147406 - ReportLabel 1291914149" size-unit="char" translate="yes" xml:space="preserve">
+          <source>of</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Report CSD Customer List - ReportLabel NameCap</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CSD Customer List - ReportLabel OfCap</note>
         </trans-unit>
         <trans-unit id="Report 1243147406 - ReportLabel 1240791067" size-unit="char" translate="yes" xml:space="preserve">
           <source>Page</source>

@@ -7,21 +7,20 @@ report 50100 "CSD Customer List"
 
     dataset
     {
-        dataitem(Customer; "Customer")
+        dataitem(Customer; Customer)
         {
             RequestFilterFields = "No.", Name, "Salesperson Code";
             DataItemTableView = sorting("No.");
 
-
-            column(No; "No.")
+            column(No_; "No.")
             {
                 IncludeCaption = true;
             }
-            column(Name; "Name")
+            column(Name; Name)
             {
                 IncludeCaption = true;
             }
-            column(City; "City")
+            column(City; City)
             {
                 IncludeCaption = true;
             }
@@ -29,49 +28,42 @@ report 50100 "CSD Customer List"
             {
                 IncludeCaption = true;
             }
-
+            column(Last_Date_Modified; "Last Date Modified")
+            {
+                IncludeCaption = true;
+            }
             column(Balance__LCY_; "Balance (LCY)")
             {
                 IncludeCaption = true;
             }
         }
-
         dataitem("Company Information"; "Company Information")
         {
-            ;
-
-
             column(Picture; Picture)
             {
 
             }
-
             column(CompanyName; CompanyName())
             {
 
             }
         }
-
-
     }
-
-
 
     rendering
     {
         layout(Simple)
         {
             Type = RDLC;
-            LayoutFile = 'Layouts/CustomerList.rdl';
+            LayoutFile = './Layouts/CustomerList.rdl';
         }
     }
 
     labels
     {
-        NameCap = 'Name';
-        PageCap = 'Page';
-        TotalCap = 'Total';
         ReportCap = 'Customer List';
-
+        OfCap = 'of';
+        TotalCap = 'Total';
+        PageCap = 'Page';
     }
 }
