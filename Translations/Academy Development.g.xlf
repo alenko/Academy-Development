@@ -53,6 +53,26 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report CSD Customer Statement - ReportLabel TotalCap</note>
         </trans-unit>
+        <trans-unit id="TableExtension 3495005692 - Field 3611185188 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Shoe Size</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CSD Customer - Field CSD Shoe Size - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3495005692 - Field 2848694200 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Weight</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CSD Customer - Field CSD Weight - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 1243147406 - Method 2736589801 - NamedType 2490937408" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 1243147406">
+          <source>SOMETHING</source>
+          <note from="Developer" annotates="general" priority="2">Gives message</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CSD Customer List - Method OnPostReport - NamedType EndMessageTxt</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 1243147406 - Control 1998521640 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 97817805">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CSD Customer List - Control CSD Options - Property Caption</note>
+        </trans-unit>
       </group>
     </body>
   </file>
