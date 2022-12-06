@@ -63,6 +63,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension CSD Customer - Field CSD Weight - Property Caption</note>
         </trans-unit>
+        <trans-unit id="TableExtension 1919324440 - Field 1255779663 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Customer List Printed by</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Sales Rec - Field Customer List Printed by - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1919324440 - Field 707614345 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Customer List Printed the</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Sales Rec - Field Customer List Printed the - Property Caption</note>
+        </trans-unit>
         <trans-unit id="ReportExtension 1243147406 - Method 2736589801 - NamedType 2490937408" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 1243147406">
           <source>SOMETHING</source>
           <note from="Developer" annotates="general" priority="2">Gives message</note>
